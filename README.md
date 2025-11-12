@@ -3,7 +3,7 @@
 Short description
 : A small educational project that demonstrates the concept of rotating a Discord server vanity string from a list. This repository is provided for study and code-read purposes only. See the **Disclaimer** section.
 
-Repository reference: https://github.com/nabil-devs/Server-vanity-rotator. :contentReference[oaicite:1]{index=1}
+Repository reference: https://github.com/nabil-devs/Server-vanity-rotator. 
 
 ---
 
